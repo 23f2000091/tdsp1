@@ -1,0 +1,7 @@
+{
+  "prompt": "A vast dark night sky viewed from above a remote landscape. Thousands of small fires or candle flames are scattered across the dark ground below, each one isolated, representing a living language. The majority of the flames are dim, flickering, nearly extinguished — only a small cluster in one corner burns brightly. The extinguished spots leave only faint scorch marks on the dark earth. The overall composition is overwhelmingly dark, with the few remaining bright flames making the darkness feel heavier, not lighter. Shot as a long-exposure aerial photograph, photorealistic, cinematic. The emotional register is quiet grief — not catastrophe, but slow irreversible loss. No text, no labels, no diagrams, no numbers, no overlays.",
+  "model": "Ideogram 2",
+  "dataset_name": "UNESCO Atlas of the World's Languages in Danger",
+  "dataset_url": "https://www.unesco.org/en/articles/atlas-worlds-languages-danger",
+  "insight": "Over 40% of the world's 7,000 languages are endangered, with most spoken by only a handful of elderly people — their extinction is quiet, scattered, and nearly invisible."
+}
