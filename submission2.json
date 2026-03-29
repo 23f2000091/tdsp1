@@ -1,0 +1,6 @@
+{
+  "prompt": "A photorealistic aerial photograph of an enormous salt flat or desert plain stretching to the horizon in every direction, perfectly flat and featureless. In the foreground, a tiny cluster of three or four human figures standing close together, dwarfed by the infinite emptiness surrounding them. The space between the figures and the horizon is vast, pale, and completely empty — no roads, no landmarks, nothing. The figures look impossibly small against the scale of the space. Shot from slightly above, wide angle lens, harsh midday light casting short shadows, bleached white ground. The overwhelming impression is of space that cannot be meaningfully traversed or covered. No text, no labels, no diagrams, no overlays, no numbers.",
+  "model": "Ideogram 2",
+  "concept": "Curse of Dimensionality",
+  "metaphor": "A tiny cluster of figures on an infinite salt flat: the few data points are visibly unable to cover or characterize the overwhelming emptiness of the space around them."
+}
